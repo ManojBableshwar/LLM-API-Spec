@@ -11,4 +11,6 @@ build/
 .idea/
 
 # Reports and logs (regenerated via CLI)
-configs/
+configs/*
+!configs/3model_comparison_report.md
+!configs/3model_comparison_report.json
